@@ -5,27 +5,28 @@
     <projectFile profileName="IIS Express">ZhaoxiFlower.WebAPI/ZhaoxiFlower.WebAPI.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ed6aa8-1716-4e1c-8cbf-5ed2cefb70a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/WeatherForecast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/ZhaoxiFlower.WebAPI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/appsettings.json" afterDir="false" />
+    <list default="true" id="f5ed6aa8-1716-4e1c-8cbf-5ed2cefb70a5" name="Changes" comment="ZhaoXiFlower.WebAPI Create">
+      <change afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Controllers/ImageController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZhaoxiFlower.WebAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZhaoxiFlower.WebAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/ZhaoxiFlower.WebAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ZhaoxiFlower.WebAPI/ZhaoxiFlower.WebAPI.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/elvinyao/Documents/WorkSpace/Coding/ZhaoxiFlower.WebAPI/ZhaoxiFlower.WebAPI/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CR8qrt6GP2BnXeDWRGREKzv3bo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,8 +80,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658754234341</updated>
-      <workItem from="1658754242253" duration="85000" />
+      <workItem from="1658754242253" duration="3459000" />
     </task>
+    <task id="LOCAL-00001" summary="ZhaoXiFlower.WebAPI Create">
+      <created>1658754437487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658754437487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="ZhaoXiFlower.WebAPI Create" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZhaoXiFlower.WebAPI Create" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
